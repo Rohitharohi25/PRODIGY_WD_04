@@ -1,0 +1,5 @@
+// Example JavaScript (script.js)
+// This is just a placeholder since your portfolio may not require JavaScript functionality
+// unless you're adding specific interactive features.
+
+// You can add JavaScript code here if needed.
